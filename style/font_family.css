@@ -1,0 +1,108 @@
+
+@font-face {
+    font-family: 'AbhayaLibreBold';
+    src: url('font_family/AbhayaLibre-Bold.ttf') format('truetype');
+    /* src: url('font_family/STSongti-SC-Bold_1.ttf');
+    src: url('font_family/iconfont.eot?#iefix') format('embedded-opentype'),
+        url('font_family/iconfont.woff2') format('woff2'),
+        url('font_family/iconfont.woff') format('woff'),
+        url('font_family/iconfont.ttf') format('truetype'),
+        url('font_family/iconfont.svg#font_family') format('svg'); */
+}
+
+@font-face {
+    font-family: 'AbhayaLibreExtraBold';
+    src: url('font_family/AbhayaLibre-ExtraBold.ttf') format('truetype');
+    /* src: url('font_family/STSongti-SC-Bold_1.ttf');
+    src: url('font_family/iconfont.eot?#iefix') format('embedded-opentype'),
+        url('font_family/iconfont.woff2') format('woff2'),
+        url('font_family/iconfont.woff') format('woff'),
+        url('font_family/iconfont.ttf') format('truetype'),
+        url('font_family/iconfont.svg#font_family') format('svg'); */
+}
+
+@font-face {
+    font-family: 'AbhayaLibreRegular';
+    src: url('font_family/AbhayaLibre-Regular.ttf') format('truetype');
+    /* src: url('font_family/STSongti-SC-Bold_1.ttf');
+    src: url('font_family/iconfont.eot?#iefix') format('embedded-opentype'),
+        url('font_family/iconfont.woff2') format('woff2'),
+        url('font_family/iconfont.woff') format('woff'),
+        url('font_family/iconfont.ttf') format('truetype'),
+        url('font_family/iconfont.svg#font_family') format('svg'); */
+}
+
+
+
+
+/*云书法家杨永志瘦金行楷简*/
+@font-face {
+    font-family: 'yangyongzhi';
+    src: url('font_family/PFDinTextUn-Regular.ttf') format('truetype');
+    /* src: url('font_family/STSongti-SC-Bold_1.ttf');
+    src: url('font_family/iconfont.eot?#iefix') format('embedded-opentype'),
+        url('font_family/iconfont.woff2') format('woff2'),
+        url('font_family/iconfont.woff') format('woff'),
+        url('font_family/iconfont.ttf') format('truetype'),
+        url('font_family/iconfont.svg#font_family') format('svg'); */
+}
+
+
+/*思源*/
+@font-face {
+    font-family: 'SourceHanSansCN';
+    src: url('font_family/SourceHanSansCN-Regular.woff') format('truetype');
+    /* src: url('font_family/STSongti-SC-Bold_1.ttf');
+    src: url('font_family/iconfont.eot?#iefix') format('embedded-opentype'),
+        url('font_family/iconfont.woff2') format('woff2'),
+        url('font_family/iconfont.woff') format('woff'),
+        url('font_family/iconfont.ttf') format('truetype'),
+        url('font_family/iconfont.svg#font_family') format('svg'); */
+}
+@font-face {
+    font-family: 'SourceHanSansCNLight';
+    src: url('font_family/SourceHanSansCN-Light.woff') format('truetype');
+    /* src: url('font_family/STSongti-SC-Bold_1.ttf');
+    src: url('font_family/iconfont.eot?#iefix') format('embedded-opentype'),
+        url('font_family/iconfont.woff2') format('woff2'),
+        url('font_family/iconfont.woff') format('woff'),
+        url('font_family/iconfont.ttf') format('truetype'),
+        url('font_family/iconfont.svg#font_family') format('svg'); */
+}
+@font-face {
+    font-family: 'SourceHanSansCNBold';
+    src: url('font_family/SourceHanSansCN-Bold.woff') format('truetype');
+    /* src: url('font_family/STSongti-SC-Bold_1.ttf');
+    src: url('font_family/iconfont.eot?#iefix') format('embedded-opentype'),
+        url('font_family/iconfont.woff2') format('woff2'),
+        url('font_family/iconfont.woff') format('woff'),
+        url('font_family/iconfont.ttf') format('truetype'),
+        url('font_family/iconfont.svg#font_family') format('svg'); */
+}
+
+@font-face {
+    font-family: 'SourceHanSansCNHeavy';
+    src: url('font_family/SourceHanSerifCN-Heavy.otf') format('truetype');
+    /* src: url('font_family/STSongti-SC-Bold_1.ttf');
+    src: url('font_family/iconfont.eot?#iefix') format('embedded-opentype'),
+        url('font_family/iconfont.woff2') format('woff2'),
+        url('font_family/iconfont.woff') format('woff'),
+        url('font_family/iconfont.ttf') format('truetype'),
+        url('font_family/iconfont.svg#font_family') format('svg'); */
+}
+
+
+
+
+/* 手机端字体 */
+@font-face {   
+    font-family: 'SourceHanSansCNMedium';
+    src: url('font_family/SourceHanSansCN-Medium.otf') format('truetype');
+    /* src: url('font_family/STSongti-SC-Bold_1.ttf');
+    src: url('font_family/iconfont.eot?#iefix') format('embedded-opentype'),
+        url('font_family/iconfont.woff2') format('woff2'),
+        url('font_family/iconfont.woff') format('woff'),
+        url('font_family/iconfont.ttf') format('truetype'),
+        url('font_family/iconfont.svg#font_family') format('svg'); */
+}
+

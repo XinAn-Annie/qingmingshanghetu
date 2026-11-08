@@ -1,0 +1,109 @@
+{
+  "source": "data/raw_web/0008_img3_8.jpg",
+  "source_sha256": "09571c9b1af7ea8e4b25d5b5ef8c9b160f681a98ca3ef8ce13e9ff7c8b70368b",
+  "source_size": [
+    3080,
+    2036
+  ],
+  "base": {
+    "crop_xyxy": [
+      0,
+      430,
+      3080,
+      1749
+    ],
+    "path": "nature-replica\\qingming-replica\\qingming-assets\\scene03-source\\bridge-band.webp",
+    "size": [
+      3080,
+      1319
+    ]
+  },
+  "regions": [
+    {
+      "id": "bridge-left-market",
+      "source": "data/raw_web/0008_img3_8.jpg",
+      "source_sha256": "09571c9b1af7ea8e4b25d5b5ef8c9b160f681a98ca3ef8ce13e9ff7c8b70368b",
+      "crop_xyxy": [
+        0,
+        430,
+        1152,
+        1749
+      ],
+      "path": "nature-replica\\qingming-replica\\qingming-assets\\scene03-source\\bridge-left-market.webp",
+      "size": [
+        1152,
+        1319
+      ],
+      "evidence_boundary": "source crop; visible image region"
+    },
+    {
+      "id": "bridge-center-arch",
+      "source": "data/raw_web/0008_img3_8.jpg",
+      "source_sha256": "09571c9b1af7ea8e4b25d5b5ef8c9b160f681a98ca3ef8ce13e9ff7c8b70368b",
+      "crop_xyxy": [
+        450,
+        430,
+        1900,
+        1749
+      ],
+      "path": "nature-replica\\qingming-replica\\qingming-assets\\scene03-source\\bridge-center-arch.webp",
+      "size": [
+        1450,
+        1319
+      ],
+      "evidence_boundary": "source crop; visible image region"
+    },
+    {
+      "id": "bridge-right-market",
+      "source": "data/raw_web/0008_img3_8.jpg",
+      "source_sha256": "09571c9b1af7ea8e4b25d5b5ef8c9b160f681a98ca3ef8ce13e9ff7c8b70368b",
+      "crop_xyxy": [
+        1500,
+        430,
+        3080,
+        1400
+      ],
+      "path": "nature-replica\\qingming-replica\\qingming-assets\\scene03-source\\bridge-right-market.webp",
+      "size": [
+        1580,
+        970
+      ],
+      "evidence_boundary": "source crop; visible image region"
+    },
+    {
+      "id": "bridge-under-boat",
+      "source": "data/raw_web/0008_img3_8.jpg",
+      "source_sha256": "09571c9b1af7ea8e4b25d5b5ef8c9b160f681a98ca3ef8ce13e9ff7c8b70368b",
+      "crop_xyxy": [
+        900,
+        850,
+        2400,
+        1749
+      ],
+      "path": "nature-replica\\qingming-replica\\qingming-assets\\scene03-source\\bridge-under-boat.webp",
+      "size": [
+        1500,
+        899
+      ],
+      "evidence_boundary": "source crop; visible image region"
+    },
+    {
+      "id": "bridge-lower-boat",
+      "source": "data/raw_web/0008_img3_8.jpg",
+      "source_sha256": "09571c9b1af7ea8e4b25d5b5ef8c9b160f681a98ca3ef8ce13e9ff7c8b70368b",
+      "crop_xyxy": [
+        1664,
+        1424,
+        3080,
+        2036
+      ],
+      "path": "nature-replica\\qingming-replica\\qingming-assets\\scene03-source\\bridge-lower-boat.webp",
+      "size": [
+        1416,
+        612
+      ],
+      "evidence_boundary": "source crop; visible image region"
+    }
+  ],
+  "note": "虹桥场景改用附件原图中的可见小场景区域；这些区域是源图裁切，不是模型生成。"
+}
