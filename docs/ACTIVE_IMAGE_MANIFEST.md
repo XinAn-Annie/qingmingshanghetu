@@ -18,11 +18,10 @@
 - `layer-seq-4`：场景2第4层 — `nature-replica/qingming-replica/qingming-assets/su-scenes/scene-02/layer-04-source-4.webp` — 1536×1024 — SHA-256 `693d5347576e46f4b1df7563e0d67c191ec7ca451db73a45f4730314ba2c2bef`
 
 ## scene-03
-- `layer-seq-1`：场景3第1层 — `nature-replica/qingming-replica/qingming-assets/su-scenes/scene-03/layer-01-source-1.webp` — 1536×1024 — SHA-256 `3f6e4e36e1755db614643f459661b5ede46c79c3594c9002448736aad4ed1e71`
-- `layer-seq-2`：场景3第2层 — `nature-replica/qingming-replica/qingming-assets/su-scenes/scene-03/layer-02-source-2.webp` — 1536×1024 — SHA-256 `a6dad03e4aa756d552a127716d94718e0e883158dfc7dbfaf285ef8bf71855db`
-- `layer-seq-3`：场景3第3层 — `nature-replica/qingming-replica/qingming-assets/su-scenes/scene-03/layer-03-source-3.webp` — 1536×1024 — SHA-256 `f08e3bd824a7f8751c807232e71018f0d2654ee8713c99336412d8c2d2d5e73f`
-- `layer-seq-4`：场景3第4层 — `nature-replica/qingming-replica/qingming-assets/su-scenes/scene-03/layer-04-source-5.webp` — 1774×887 — SHA-256 `b97c966167e336d1a56d535605b99a340a3303807d38f697fc93b0dfbbbff51a`
-- `layer-seq-5`：场景3第5层 — `nature-replica/qingming-replica/qingming-assets/su-scenes/scene-03/layer-05-source-6.webp` — 1774×887 — SHA-256 `fc44334a81dc2226139013339c6ab6c8e8572c6d7a5477eac40ddf2d8990ea89`
+- `layer-seq-1`：场景3第2层 — `nature-replica/qingming-replica/qingming-assets/su-scenes/scene-03/layer-02-source-2.webp` — 1536×1024 — SHA-256 `a6dad03e4aa756d552a127716d94718e0e883158dfc7dbfaf285ef8bf71855db`
+- `layer-seq-2`：场景3第3层 — `nature-replica/qingming-replica/qingming-assets/su-scenes/scene-03/layer-03-source-3.webp` — 1536×1024 — SHA-256 `f08e3bd824a7f8751c807232e71018f0d2654ee8713c99336412d8c2d2d5e73f`
+- `layer-seq-3`：场景3第4层 — `nature-replica/qingming-replica/qingming-assets/su-scenes/scene-03/layer-04-source-4.webp` — 1164×871 — SHA-256 `d010107774f51f12e01f5aa7b515a9c1a9e71b50b87a2558bdefbf2d1e7afed0`
+- `layer-seq-4`：场景3第5层 — `nature-replica/qingming-replica/qingming-assets/su-scenes/scene-03/layer-05-source-6.webp` — 1774×887 — SHA-256 `fc44334a81dc2226139013339c6ab6c8e8572c6d7a5477eac40ddf2d8990ea89`
 
 ## scene-04
 - `layer-far`：场景4保留素材 — `nature-replica/qingming-replica/qingming-assets/vendor-scenes/scene-packages/04-bridge-market/assets/vendor_0037/layers/00_vendor_person_s0015_x001792_0001.png` — 590×742 — SHA-256 `2767e36561d69eb8d353955e12acfc9ca6792ae634fde8782e69f47264e064f4`

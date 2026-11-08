@@ -140,15 +140,15 @@
         "alpha_zero_ratio": 0.248875
       },
       {
-        "source": "su/3/5.png",
-        "source_number": 5,
+        "source": "su/3/4.png",
+        "source_number": 4,
         "order": 4,
-        "output": "nature-replica/qingming-replica/qingming-assets/su-scenes/scene-03/layer-04-source-5.webp",
+        "output": "nature-replica/qingming-replica/qingming-assets/su-scenes/scene-03/layer-04-source-4.webp",
         "size": [
-          1774,
-          887
+          1164,
+          871
         ],
-        "alpha_zero_ratio": 0.407419
+        "alpha_zero_ratio": 0.942749
       },
       {
         "source": "su/3/6.png",

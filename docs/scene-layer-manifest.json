@@ -13,11 +13,10 @@
     "layer-seq-4": "nature-replica/qingming-replica/qingming-assets/su-scenes/scene-02/layer-04-source-4.webp"
   },
   "scene-03": {
-    "layer-seq-1": "nature-replica/qingming-replica/qingming-assets/su-scenes/scene-03/layer-01-source-1.webp",
-    "layer-seq-2": "nature-replica/qingming-replica/qingming-assets/su-scenes/scene-03/layer-02-source-2.webp",
-    "layer-seq-3": "nature-replica/qingming-replica/qingming-assets/su-scenes/scene-03/layer-03-source-3.webp",
-    "layer-seq-4": "nature-replica/qingming-replica/qingming-assets/su-scenes/scene-03/layer-04-source-5.webp",
-    "layer-seq-5": "nature-replica/qingming-replica/qingming-assets/su-scenes/scene-03/layer-05-source-6.webp"
+    "layer-seq-1": "nature-replica/qingming-replica/qingming-assets/su-scenes/scene-03/layer-02-source-2.webp",
+    "layer-seq-2": "nature-replica/qingming-replica/qingming-assets/su-scenes/scene-03/layer-03-source-3.webp",
+    "layer-seq-3": "nature-replica/qingming-replica/qingming-assets/su-scenes/scene-03/layer-04-source-4.webp",
+    "layer-seq-4": "nature-replica/qingming-replica/qingming-assets/su-scenes/scene-03/layer-05-source-6.webp"
   },
   "scene-04": {
     "layer-far": "nature-replica/qingming-replica/qingming-assets/vendor-scenes/scene-packages/04-bridge-market/assets/vendor_0037/layers/00_vendor_person_s0015_x001792_0001.png",
